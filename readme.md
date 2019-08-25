@@ -2,6 +2,14 @@
 
 # Kitchen Organizer
 
+Download this repository by running the command:
+
+```
+$ git clone https://git.generalassemb.ly/dc-wdi-fundamentals/kitchen-organizer.git
+```
+
+We'll talk about what this means tomorrow!
+
 Using `mv`, `cp`, `rm`, `touch` and `mkdir`, reorganize the kitchen in as few steps as possible!
 
 Copy the text in your terminal prompt, and save it to a text file.
