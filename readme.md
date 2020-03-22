@@ -5,7 +5,7 @@
 Download this repository by running the command:
 
 ```
-$ git clone https://git.generalassemb.ly/dc-wdi-fundamentals/kitchen-organizer.git
+$ git clone https://git.generalassemb.ly/seir-323/kitchen-organizer.git
 ```
 
 We'll talk about what this means tomorrow!
