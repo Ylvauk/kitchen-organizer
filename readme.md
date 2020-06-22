@@ -10,7 +10,7 @@ $ git clone https://git.generalassemb.ly/seir-622/kitchen-organizer.git
 
 We'll talk about what this means tomorrow!
 
-Using `mv`, `cp`, `rm`, `touch` and `mkdir`, reorganize the kitchen in as few steps as possible!
+Using `mv`, `cp`, `rm`, `touch` and `mkdir`, reorganize the kitchen!
 
 Copy the text in your terminal prompt, and save it to a text file.
 
